@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64312b1c-30f7-43c0-b797-45dbe4de388e" name="Default Changelist" comment="" />
+    <list default="true" id="64312b1c-30f7-43c0-b797-45dbe4de388e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/network/practice/Crypt01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/practice/FileSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/practice/OsModular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/practice/ZipCrack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/practice/socket01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,20 +21,38 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XEyGxUSAhXjCctIAKr7gNuM7sZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration name="string01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\File_System\Personal_Affairs\Python workspace\network\practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Crypt01">
+    <configuration name="Crypt01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,7 +65,95 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/practice/string01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/practice/Crypt01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exception01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/practice/Exception01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FileSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/practice/FileSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OsModular" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/practice/OsModular.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SysModular" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/practice/SysModular.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.string01" />
+        <item itemvalue="Python.Crypt01" />
+        <item itemvalue="Python.FileSearch" />
+        <item itemvalue="Python.OsModular" />
+        <item itemvalue="Python.SysModular" />
+        <item itemvalue="Python.Exception01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -71,33 +188,80 @@
       <workItem from="1580626009129" duration="5000" />
       <workItem from="1580626268808" duration="94000" />
       <workItem from="1580630934701" duration="1237000" />
+      <workItem from="1580640623087" duration="6116000" />
+      <workItem from="1580696604549" duration="8639000" />
     </task>
+    <task id="LOCAL-00001" summary="2020-2-2-20:42">
+      <created>1580647373368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580647373369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2020-2-2-20:42" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-2-2-20:42" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="723" height="210" key="GridCell.Tab.0.bottom" timestamp="1580632183872">
+    <state x="722" y="74" key="#Inspections" timestamp="1580641923783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580632183872" />
-    <state width="723" height="210" key="GridCell.Tab.0.center" timestamp="1580632183872">
+    <state x="722" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1580641923783" />
+    <state x="493" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580705547365">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580632183872" />
-    <state width="723" height="210" key="GridCell.Tab.0.left" timestamp="1580632183872">
+    <state x="493" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1580705547365" />
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1580647370451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580632183872" />
-    <state width="723" height="210" key="GridCell.Tab.0.right" timestamp="1580632183872">
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580647370451" />
+    <state width="723" height="208" key="GridCell.Tab.0.bottom" timestamp="1580707764245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580632183872" />
-    <state x="363" y="66" width="992" height="707" key="SettingsEditor" timestamp="1580632181151">
+    <state width="723" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580707764245" />
+    <state width="723" height="208" key="GridCell.Tab.0.center" timestamp="1580707764245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="363" y="66" width="992" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580632181151" />
+    <state width="723" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580707764245" />
+    <state width="723" height="208" key="GridCell.Tab.0.left" timestamp="1580707764245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580707764245" />
+    <state width="723" height="208" key="GridCell.Tab.0.right" timestamp="1580707764245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580707764245" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580703727891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580703727891" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1580703727891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580703727891" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1580703727891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580703727891" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1580703727891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580703727891" />
+    <state x="363" y="66" width="992" height="707" key="SettingsEditor" timestamp="1580696624204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="363" y="66" width="992" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580696624204" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1580708260772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580708260772" />
     <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580630935513">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -105,5 +269,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_workspace$string01.coverage" NAME="string01 Coverage Results" MODIFIED="1580632145967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network/practice" />
+    <SUITE FILE_PATH="coverage/Python_workspace$Exception01__1_.coverage" NAME="Exception01 (1) Coverage Results" MODIFIED="1580644119724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network/practice" />
+    <SUITE FILE_PATH="coverage/Python_workspace$Dictionaries01.coverage" NAME="Dictionaries01 Coverage Results" MODIFIED="1580641414712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network/practice" />
+    <SUITE FILE_PATH="coverage/Python_workspace$SocketOther.coverage" NAME="SocketOther Coverage Results" MODIFIED="1580641733028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network/practice" />
+    <SUITE FILE_PATH="coverage/Python_workspace$OsModular.coverage" NAME="OsModular Coverage Results" MODIFIED="1580701795346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network/practice" />
+    <SUITE FILE_PATH="coverage/Python_workspace$Crypt01.coverage" NAME="Crypt01 Coverage Results" MODIFIED="1580706394751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network/practice" />
+    <SUITE FILE_PATH="coverage/Python_workspace$SysModular.coverage" NAME="SysModular Coverage Results" MODIFIED="1580645829950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network/practice" />
+    <SUITE FILE_PATH="coverage/Python_workspace$FileSearch.coverage" NAME="FileSearch Coverage Results" MODIFIED="1580706078496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network/practice" />
   </component>
 </project>

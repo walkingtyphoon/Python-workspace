@@ -30,12 +30,12 @@
 #     if __name__ == '__main__':
 #         main()
 portliest = [21, 22, 80, 110, 445]
-with open("01.txt", "w") as t:
+with open("../Demo02/01.txt", "w") as t:
     for IP in range(1, 255):
         for port in portliest:
             t.write("[+]Checking 192.168.1." + str(IP) + ":" + str(port)+"\n")
 
-with open("01.txt", "r") as tx:
+with open("../Demo02/01.txt", "r") as tx:
     for line in tx.readlines():
         if ":22" in line.strip("\n"):
             print(line.strip("\n"))

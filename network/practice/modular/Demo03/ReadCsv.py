@@ -1,3 +1,5 @@
-with open("0227-0305.csv", "r", encoding="UTF-8") as cs:
-    while cs.readline():
-        print(cs.readline())
+import xlrd
+workbook = xlrd.open_workbook("02.xlsx")
+names = workbook.sheet_names()
+nrows = wo
+print(names)

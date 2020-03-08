@@ -3,7 +3,10 @@
 """
 
 
-def countString(string):
+def countString():
+    with open("02.txt","r",encoding="UTF-8") as tx:
+        string = tx.readlines()
+
     dictsort = {}
     # 创建空字典
     for i in string:
@@ -13,5 +16,7 @@ def countString(string):
         else:
             dictsort[i] = 1
 
+    print(dictsort)
 
-countString("abbccc")
+
+countString()

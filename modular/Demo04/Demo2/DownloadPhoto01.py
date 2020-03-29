@@ -5,7 +5,7 @@ data = requests.get(
 # 发出请求并将其保存到结果中
 pic = data.content
 # 请求内容以二进制的形式返回
-photo = open("out/01.jpg", 'wb')
+photo = open("../out/01.jpg", 'wb')
 # 创建写入的对象，w写入，b使用二进制
 photo.write(pic)
 # 写入对象

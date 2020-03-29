@@ -17,7 +17,7 @@ data = requests.get("https://localprod.pandateacher.com/python-manuscript/crawle
 # 获取连接中的数据
 target = data.text
 # 获取目标的字符串形式
-value = open("out/http状态响应码.md", 'a+', encoding="UTF-8")
+value = open("../out/http状态响应码.md", 'a+', encoding="UTF-8")
 # 创建写入的对象
 value.write(target)
 # 写入文本对象

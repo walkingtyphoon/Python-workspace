@@ -1,6 +1,6 @@
 import csv
 
-with open("out/工作簿2.csv", 'a', newline='') as f:
+with open("../out/工作簿2.csv", 'a', newline='') as f:
     # 写入表格 a 为追加
     writers = csv.writer(f)
     # 写入文件
